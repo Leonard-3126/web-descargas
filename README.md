@@ -1,14 +1,14 @@
 # W Cleaning Web App
 
-## 📱 Cómo descargar e instalar la aplicación
+## 📱 Descargas Directas
 
-1. Ve a la [página de Releases](https://github.com/Leonard-3126/web-descargas/releases)
-2. Busca la última versión (Latest release)
-3. En "Assets", encontrarás dos archivos:
-   - ⭐ `app-release.apk` (Recomendado para usuarios)
-   - 🔧 `app-debug.apk` (Para desarrolladores)
-4. Haz clic en el archivo `app-release.apk` para descargarlo
-5. En tu Android:
+[![Descargar APP](https://img.shields.io/badge/Descargar-APP%20Release-brightgreen.svg?style=for-the-badge&logo=android)](../../releases/download/latest/app-release.apk)
+[![Descargar Debug](https://img.shields.io/badge/Descargar-Debug%20Version-orange.svg?style=for-the-badge&logo=android)](../../releases/download/latest/app-debug.apk)
+
+## 📱 Cómo instalar la aplicación
+
+1. Haz clic en uno de los botones de descarga de arriba
+2. En tu Android:
    - Abre Configuración
    - Ve a Seguridad
    - Activa "Orígenes desconocidos" o "Instalar apps desconocidas"
