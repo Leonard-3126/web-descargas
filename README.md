@@ -14,6 +14,22 @@ Puedes descargar la última versión de la aplicación desde la sección de [Rel
 2. En tu dispositivo Android, permite la instalación desde fuentes desconocidas
 3. Abre el archivo APK descargado para instalar la aplicación
 
+## Instrucciones para desarrolladores
+
+Para clonar y ejecutar este proyecto:
+
+```bash
+git clone https://github.com/Leonard-3126/web-descargas.git
+cd web-descargas
+flutter pub get
+flutter run
+```
+
+## Tecnologías utilizadas
+
+- Flutter
+- Dart
+
 # w_cleaning
 
 A new Flutter project.
