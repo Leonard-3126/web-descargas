@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78738880357",
+    "project_id": "wcleaningapp",
+    "storage_bucket": "wcleaningapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78738880357:android:2c6aa1f7635ef063cd538c",
+        "android_client_info": {
+          "package_name": "com.wcleaning.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSCh2f-ojV5ha2RdKD7eskTjX7fsuPUnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
