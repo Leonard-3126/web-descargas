@@ -1,21 +1,29 @@
 # W Cleaning Web App
 
-## 📱 Descargas Directas
+## ⬇️ Descargas Directas
 
-[![Descargar APP](https://img.shields.io/badge/Descargar-APP%20Release-brightgreen.svg?style=for-the-badge&logo=android)](../../releases/download/latest/app-release.apk)
-[![Descargar Debug](https://img.shields.io/badge/Descargar-Debug%20Version-orange.svg?style=for-the-badge&logo=android)](../../releases/download/latest/app-debug.apk)
+| Versión | Botón de Descarga |
+|---------|------------------|
+| 📱 App Normal | [![DESCARGAR APP](https://img.shields.io/badge/DESCARGAR-APP%20RELEASE-success?style=for-the-badge)](https://github.com/Leonard-3126/web-descargas/releases/download/v1.0.0/app-release.apk) |
+| 🔧 Versión Debug | [![DESCARGAR DEBUG](https://img.shields.io/badge/DESCARGAR-DEBUG-orange?style=for-the-badge)](https://github.com/Leonard-3126/web-descargas/releases/download/v1.0.0/app-debug.apk) |
 
-## 📱 Cómo instalar la aplicación
+## 📱 Pasos para instalar
 
-1. Haz clic en uno de los botones de descarga de arriba
-2. En tu Android:
-   - Abre Configuración
-   - Ve a Seguridad
-   - Activa "Orígenes desconocidos" o "Instalar apps desconocidas"
-   - Abre el archivo APK descargado
+1. **Preparar el dispositivo**:
+   - Ve a `Configuración` > `Seguridad` en tu Android
+   - Activa `Permitir instalación de apps desconocidas`
+
+2. **Instalar la app**:
+   - Haz clic en el botón verde "DESCARGAR APP" de arriba
+   - Abre el archivo descargado
    - Presiona "Instalar"
 
-❗ **Importante**: Si no ves los archivos APK, espera a que el administrador los suba en la sección de Releases.
+3. **Primer uso**:
+   - Abre la app "W Cleaning"
+   - Permite los permisos necesarios
+   - ¡Listo para usar!
+
+❗ **Nota**: Si los botones no funcionan, visita directamente la [página de releases](https://github.com/Leonard-3126/web-descargas/releases).
 
 ## Instrucciones para desarrolladores
 
