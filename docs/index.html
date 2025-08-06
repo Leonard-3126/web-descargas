@@ -3,65 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>W Cleaning - Descarga</title>
+    <title>W Cleaning APP - Descarga</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
-            padding: 0;
-            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        .container {
-            background: white;
-            padding: 2rem;
-            border-radius: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 20px;
+            background: #f0f2f5;
             text-align: center;
-            max-width: 500px;
-            width: 90%;
-            margin: 20px;
         }
-        .download-btn {
+        .card {
+            max-width: 400px;
+            margin: 40px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .download-button {
             display: inline-block;
-            background: #2ea44f;
+            background: #28a745;
             color: white;
             text-decoration: none;
-            padding: 15px 40px;
-            border-radius: 10px;
-            font-size: 1.2rem;
+            padding: 15px 30px;
+            border-radius: 8px;
             font-weight: bold;
+            font-size: 18px;
             margin: 20px 0;
-            transition: transform 0.2s;
-            box-shadow: 0 4px 15px rgba(46, 164, 79, 0.2);
         }
-        .download-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(46, 164, 79, 0.3);
-        }
-        .info {
+        .app-info {
             color: #666;
             line-height: 1.6;
         }
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="card">
         <h1>📱 W Cleaning APP</h1>
         <p>Tu solución completa para servicios de limpieza</p>
         
         <a href="https://github.com/Leonard-3126/web-descargas/releases/download/v1.0.0/app-release.apk" 
-           class="download-btn">
+           class="download-button" download>
            ⬇️ DESCARGAR APP
         </a>
 
-        <div class="info">
-            <p>✅ Versión actual: 1.0.0</p>
+        <div class="app-info">
+            <p>✅ Versión: 1.0.0</p>
             <p>📦 Tamaño: 58.72 MB</p>
-            <p>📱 Compatible con Android 5.0+</p>
+            <p>📱 Android 5.0+</p>
+            <p><small>Si la descarga no inicia automáticamente, 
+                <a href="https://github.com/Leonard-3126/web-descargas/releases">haz clic aquí</a>
+            </small></p>
         </div>
     </div>
 </body>
