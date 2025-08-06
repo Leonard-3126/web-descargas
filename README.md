@@ -4,8 +4,14 @@
 
 | Versión | Botón de Descarga |
 |---------|------------------|
-| 📱 App Normal | [![DESCARGAR APP](https://img.shields.io/badge/DESCARGAR-APP%20RELEASE-success?style=for-the-badge)](https://github.com/Leonard-3126/web-descargas/releases/download/v1.0.0/app-release.apk) |
-| 🔧 Versión Debug | [![DESCARGAR DEBUG](https://img.shields.io/badge/DESCARGAR-DEBUG-orange?style=for-the-badge)](https://github.com/Leonard-3126/web-descargas/releases/download/v1.0.0/app-debug.apk) |
+| 📱 App Normal | [![DESCARGAR APP](https://img.shields.io/badge/DESCARGAR-APP%20RELEASE-success?style=for-the-badge)](https://github.com/Leonard-3126/web-descargas/releases/latest/download/app-release.apk) |
+| 🔧 Versión Debug | [![DESCARGAR DEBUG](https://img.shields.io/badge/DESCARGAR-DEBUG-orange?style=for-the-badge)](https://github.com/Leonard-3126/web-descargas/releases/latest/download/app-debug.apk) |
+
+❗ **IMPORTANTE: Cómo descargar la APP** ❗
+
+1. Primero necesitas ir a la [página de releases](https://github.com/Leonard-3126/web-descargas/releases)
+2. Haz clic en el último release (latest)
+3. Descarga el archivo `app-release.apk`
 
 ## 📱 Pasos para instalar
 
